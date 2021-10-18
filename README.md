@@ -4,8 +4,6 @@
 
 > This is an ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using [Vue CLI](https://github.com/vuejs/vue-cli). Questions, feedback, and for now, even bikeshedding are welcome. 😄
 
-A big thanks to [Chris Fritz](https://www.patreon.com/chrisvuefritz) for the incredible work that he did to make this resource possible.
-
 ## Features
 
 - [**Thorough documentation**](#documentation): Written with the same care as Vue's core docs to quickly train new team members and consolidate knowledge.
@@ -17,7 +15,8 @@ A big thanks to [Chris Fritz](https://www.patreon.com/chrisvuefritz) for the inc
 
 ```bash
 # 1. Clone the repository.
-git clone https://github.com/chrisvfritz/vue-enterprise-boilerplate.git my-new-project
+https://github.com/needman9/create-vuejs-app.git
+my-new-project
 
 # 2. Enter your newly-cloned folder.
 cd my-new-project
